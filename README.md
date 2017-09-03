@@ -1,10 +1,25 @@
-# React-starter-kit
-Starter Kit for Building Applications in React
+## Getting started with React-starter-kit for Building Applications in React
 
-Get Started
+To install the Node app and need to run multiple versions of Node? Use nvm or nvm-windows  
+To run basic setup of React application 
 
-Install Node.  Need to run multiple versions of Node? Use nvm or nvm-windows
-Clone this repository. - git clone https://github.com/sravindravmd/React-starter-kit.git or download the zip
-Make sure you're in the directory you just created. - cd React-starter-kit
-Install Node Packages. - npm install
-Run the app. - npm start -s
+```ruby
+git clone https://github.com/sravindravmd/React-starter-kit.git
+cd React-starter-kit
+```
+
+Then run `bundle install`
+
+Next, you need to Install Node Packages by running this command
+
+```console
+npm install 
+```
+#after that you can run yarn also but not manadatory
+
+Setup and Installation is done now need to start our Application by running 
+
+```console
+npm start 
+```
+your browser will automatically open on port 3000 and your React application is ready :smiley:
