@@ -7,9 +7,6 @@ To run basic setup of React application
 git clone https://github.com/sravindravmd/React-starter-kit.git
 cd React-starter-kit
 ```
-
-Then run `bundle install`
-
 Next, you need to Install Node Packages by running this command
 
 ```console
